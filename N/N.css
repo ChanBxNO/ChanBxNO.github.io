@@ -1,7 +1,7 @@
 p {
 	width: 400px;
 	position: absolute;
-	top: 500px;
+	top: 460px;
 	left: 199px;
 	font-family: Verdana;
 }
@@ -23,14 +23,15 @@ h2 {
 	left: 20px;
 }
 .box2 {
-	width: 140px;
-	height: 90px;
+	width: 110px;
+	height: 80px;
 	background-color: black;
 	position: absolute;
-	top: 40px;
-	left: 30px;
-	border-radius: 56%;
+	top: 50px;
+	left: 20px;
+	border-radius: 50%;
 }
+
 .box3 {
 	position: absolute;
   top: 20px;
@@ -65,19 +66,20 @@ h2 {
   width: 0;
   height: 0;
   border-left: 20px solid transparent;
-  border-right: 45px solid transparent;
-  border-bottom: 110px solid rgb(0, 0, 0);
+  border-right: 50px solid transparent;
+  border-bottom: 231px solid rgb(0, 0, 0);
  
 }
 .box7 {
   position: absolute;
-  top: 150px;
-  left: 400px;
+  top: 50px;
+  left: 350px;
   width: 0;
   height: 0;
-  border-left: 10px solid transparent;
-  border-right: 70px solid transparent;
-  border-bottom: 130px solid rgb(0, 0, 0);
+  border-left: 20px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 231px solid rgb(0, 0, 0);
+  
   
 }
 .box8 {
@@ -93,25 +95,29 @@ h2 {
   height: 230px;
   position: absolute;
   top: 50px;
-  left: 520px;
+  left: 510px;
   background-color: rgb(0,00,0);
+  transform: skew(5deg);
 }
 .box10 {
   width: 150px;
-  height: 55px;
+  height: 35px;
   position: absolute;
-  top: 235px;
+  top: 250px;
   left: 530px;
   background-color: rgb(0,00,0);
   transform: rotateX(45deg);
+  transform: skew(30deg);
+
 }
 .box11 {
 	width: 150px;
 	height: 35px;
 	background-color: black;
 	position: absolute;
-	top: 50px;
+	top: 40px;
 	left: 530px;
+	transform: skew(30deg);
 }
 .box12 {
 	width: 45px;
@@ -120,5 +126,52 @@ h2 {
 	position: absolute;
 	top: 150px;
 	left: 635px;
+	transform: skew(10deg);
 }
+.box13 {
+	width: 45px;
+	height: 230px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 700px;
+	
+}
+.box14 {
+	width: 45px;
+	height: 70px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 760px;
+	transform: skew(40deg);
+}
+.box15 {
+	width: 50px;
+	height: 100px;
+	background-color: black;
+	position: absolute;
+	top: 105px;
+	left: 750px;
+	transform: skew(40deg)
+}
+.box16 {
+	width: 50px;
+	height: 100px;
+	background-color: black;
+	position: absolute;
+	top: 185px;
+	left: 750px;
+	transform: skew(40deg)
+
+
+
+
+
+
+
+
+
+
+
 
