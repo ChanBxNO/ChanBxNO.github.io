@@ -1,0 +1,251 @@
+p {
+	width: 400px;
+	position: absolute;
+	top: 500px;
+	left: 20px;
+	font-family: Verdana;
+}
+
+h2 {
+	position: absolute;
+	top: 430px;
+	left: 20px;
+	font-family: Verdana;
+	font-size: 25px;
+	font-weight: bold;
+}
+.box1 {
+	width: 60px;
+	height: 230px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 20px;
+}
+.box1:hover {
+	transform: rotateX(45deg);
+}
+      
+.box2 {
+	width: 110px;
+	height: 80px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 20px;
+	border-radius: 50%;
+}
+
+.box3 {
+	position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 0;
+  height: 62px;
+  border-left: 30px solid transparent;
+  border-right: 105px solid transparent;
+  border-bottom: 200px solid rgb(0, 0, 0);
+}
+.box3:hover {
+  transform: scale(1.5);
+  
+}
+
+.box4 {
+	position: absolute;
+  top: -103px;
+  left: 180px;
+  width: 20px;
+  height: 155px;
+  border-left: 60px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 230px solid rgb(0, 0, 0);
+}
+.box4:hover {
+	transform: scale(1.3);
+}
+
+.box5 {
+	width: 40px;
+	height: 230px;
+	background-color: black;
+	position: absolute;
+	top: 52px;
+	left: 330px;
+}
+.box6 {
+  position: absolute;
+  top: 49px;
+  left: 350px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 231px solid rgb(0, 0, 0);
+}
+
+.box7 {
+  position: absolute;
+  top: 51px;
+  left: 350px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 231px solid rgb(0, 0, 0);
+  
+  
+}
+.box8 {
+	width: 40px;
+	height: 230px;
+	background-color: black;
+	position: absolute;
+	top: 51px;
+	left: 440px;
+}
+
+.box8:hover {
+  transform: scale(1.5);
+  
+}
+.box9 {
+  width: 45px;
+  height: 230px;
+  position: absolute;
+  top: 50px;
+  left: 510px;
+  background-color: rgb(0,00,0);
+  
+}
+.box10 {
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  top: 237px;
+  left: 530px;
+  background-color: rgb(0,00,0);
+  transform: rotateX(45deg);
+ 
+
+}
+.box11 {
+	width: 150px;
+	height: 35px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 510px;
+	
+}
+.box12 {
+	width: 44px;
+	height: 120px;
+	background-color: black;
+	position: absolute;
+	top: 160px;
+	left: 631px;
+	transform: skew(10deg);.
+}
+.box12:hover {
+  transform: skew(20deg);
+}
+.box13 {
+	width: 45px;
+	height: 230px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 700px;
+}
+.box13:hover {
+  transform: scale(1.1);
+	
+}
+.box14 {
+	width: 45px;
+	height: 70px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 760px;
+	transform: skew(40deg);
+}
+.box15 {
+	width: 45px;
+	height: 100px;
+	background-color: black;
+	position: absolute;
+	top: 105px;
+	left: 742px;
+	transform: skew(40deg)
+}
+.box16 {
+	width: 45px;
+	height: 100px;
+	background-color: black;
+	position: absolute;
+	top: 185px;
+	left: 742px;
+	transform: skew(40deg)
+}
+.box17 {
+	width: 105px;
+	height: 40px;
+	background-color: black;
+	position: absolute;
+	top: 44px;
+	left: 880px;
+	transform: rotateX(45deg) skew(30deg);
+}
+.box18 {
+	width: 30px;
+	height: 140px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 870px;
+}
+.box18:hover {
+  transform: scale(1.3);
+}
+.box19 {
+	width: 30px;
+	height: 110px;
+	background-color: black;
+	position: absolute;
+	top: 130px;
+	left: 910px;
+	transform:rotate(90deg) skew(-10deg);
+}
+.box20 {
+	width: 34px;
+	height: 95px;
+	background-color: black;
+	position: absolute;
+	top: 180px;
+	left: 954px;
+	transform: skew(10deg);
+}
+.box21 {
+	width: 120px;
+	height: 40px;
+	background-color: black;
+	position: absolute;
+	top: 244px;
+	left: 875px;
+	transform: rotateX(45deg) skew(10deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
