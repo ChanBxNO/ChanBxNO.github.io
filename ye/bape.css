@@ -1,0 +1,90 @@
+.img1{
+	position: absolute;
+	top: 80px;
+	left: 0vw;
+	width: 90vw;
+	height: 75vh;
+	transform: scale(0.6);
+	background:url("bapes.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.img2{
+	position: absolute;
+	top: 490px;
+	left: 0vw;
+	width: 100vw;
+	height: 95vh;
+	transform: scale(0.6);
+	background:url("of.jpg");
+	background-size: cover;
+	background-position: center;
+}
+h1 {
+	position: absolute;
+	top: -30px;
+	left: 10vw;
+	font-size: 6vw;
+	font-family: 'Open Sans';
+	font-weight: 400px;
+	color: brown;
+
+}
+h2 {
+	position: absolute;
+	top: 90px;
+	left: 10vw;
+	font-size: 2vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: black;
+}
+h3 {
+	position: absolute;
+	top: 490px;
+	left: 10vw;
+	font-size: 1.5vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: black;
+}
+h4 {
+	position: absolute;
+	top: 150px;
+	left: 70vw;
+	font-size: 1.5vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: black;
+}
+h5{
+	position: absolute;
+	top: 120px;
+	left: 70vw;
+	font-size: 4vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: green;
+}
+h6{
+	position: absolute;
+	top: 260px;
+	left: 80vw;
+	font-size: 1.5vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: black;
+}
+h7{
+	position: absolute;
+	top: 320px;
+	left: 80vw;
+	font-size: 4vw;
+	font-family: 'Open Sans';
+	font-weight: 40px;
+	color: red;
+
+
+
+

@@ -1,0 +1,110 @@
+.img1{
+	position: absolute;
+	top: -5vw;
+	left: -20vw;
+	width: 70vw;
+	height: 85vh;
+	transform: scale(0.4);
+	background:url("jasper.jpg");
+	background-position: center;
+}
+.img2{
+	position: absolute;
+	top: 7vw;
+	left: 28vw;
+	width: 28vw;
+	height: 35vh;
+	transform: scale(0.9);
+	background:url("jasper2.jpg");
+	background-position: center;
+}
+.img3{
+	position: absolute;
+	top: -1vw;
+	left: 50vw;
+	width: 43vw;
+	height: 65vh;
+	transform: scale(0.5);
+	background:url("jasper3.jpg");
+	background-position: center;
+}
+
+h1{
+	position: absolute;
+	top: -90px;
+	left: 10vw;
+	font-size: 6vw;
+	font-family: 'Kanit';
+	font-weight: 400px;
+	color: black;
+}
+h2{
+	position: absolute;
+	top: 370px;
+	left: 30vw;
+	font-size: 3vw;
+	font-family: 'Kanit';
+	font-weight: 400px;
+	color: black;
+}
+h3{
+	position: absolute;
+	width: 90%;
+	top: 470px;
+	left: 0vw;
+	font-size: 1.5vw;
+	font-family: 'Kanit';
+	font-weight: 50px;
+	color: black;
+	}
+h4{
+	position: absolute;
+	top: 345px;
+	left: 10vw;
+	font-size: 1.3vw;
+	font-family: 'Kanit';
+	font-weight: 100px;
+	color: black;
+}
+h5{
+	position: absolute;
+	top: 320px;
+	left: 10vw;
+	font-size: 3vw;
+	font-family: 'Kanit';
+	font-weight: 100px;
+	color: green;
+}
+h6{
+	position: absolute;
+	top: 320px;
+	left: 70vw;
+	font-size: 1.3vw;
+	font-family: 'Kanit';
+	font-weight: 100px;
+	color: black;
+}
+h7{
+	position: absolute;
+	top: 375px;
+	left: 70vw;
+	font-size: 3vw;
+	font-family: 'Kanit';
+	font-weight: 150px;
+	color: red;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

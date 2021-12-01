@@ -1,0 +1,44 @@
+.img1{
+	position: absolute;
+	top: 20;
+	left: 5vw;
+	width: 50vw;
+	height: 70vh;
+	transform: scale(0.5);
+	background:url("bape.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.img2{
+	position: absolute;
+	top: 4vw;
+	left: 70vh;
+	width: 50vw;
+	height: 60vh;
+	transform: scale(0.8);
+	background:url("lv.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.img3{
+	position: absolute;
+	top: 50vh;
+	left: 0vh;
+	width: 60vw;
+	height: 60vh;
+	transform: scale(0.5);
+	background:url("ad.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.img4{
+	position: absolute;
+	top: 50vh;
+	left: 67vh;
+	width: 50vw;
+	height: 60vh;
+	transform: scale(0.6);
+	background:url("yeezy.jpg");
+	background-size: cover;
+	background-position: center;
+}
