@@ -1,0 +1,71 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.hour {
+  position: absolute;
+  top: 10vw;
+  left: 10vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  background-image: url(1.svg);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;
+  animation-name: animation;
+  animation-duration: 1500s;
+  animation-iteration-count: infinite; 
+  /*animation-timing-function: steps(1);*/
+}
+
+.minute {
+  position: absolute;
+  top: 10vw;
+  left: 40vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 20px;
+  background-image: url(1.svg);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  /*animation-timing-function: steps(1);*/
+}
+
+.second {
+  position: absolute;
+  top: 10vw;
+  left: 70vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;  
+  background-image: url(1.svg);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  animation-duration:  .3s;
+  animation-iteration-count: infinite;
+  /*animation-timing-function: steps(1);*/
+}
+
+@keyframes animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+
+  }    
+}
